@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I sometimes code 👋
 
 Todos: Upload mixed-integer linear programming (MILP), pattern recognition, Genetic Algo, and curve fitting repos so people actually believe you can code 
 
