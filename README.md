@@ -1,7 +1,5 @@
 ### Hi there. I sometimes code 👋
 
-Todos: Upload mixed-integer linear programming (MILP), pattern recognition, Genetic Algo, and curve fitting repos so people actually believe you can code 
-
 <!--
 **Eddie-Sun/eddie-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
