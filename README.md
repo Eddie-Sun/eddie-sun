@@ -1,7 +1,11 @@
-### Hi there. I sometimes code 👋
+<img align="left" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0bjAxcWkyZzRsY3FjcTRtOXJkd2pncHMxNzBkcGhuYnRsc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" />
+### I sometimes code 👋
 
+- Currently I work at [Protocol Labs Venture Studio](https://protocol.ai/blog/introducing-protocol-labs-venture-studio/) doing AI stuff
+- Interned as a UX Designer, SWE, and a Product Manager
+- Completed my undergraduate degree in [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering) at the University of Waterloo in 2023
+- How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/eddie-sun/)
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0bjAxcWkyZzRsY3FjcTRtOXJkd2pncHMxNzBkcGhuYnRsc2IzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" />
 
 <!--
 **Eddie-Sun/eddie-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
